@@ -91,7 +91,7 @@ Add Validation,
 Added StringLenght, RegularExpression, Range
  Edit coding for the delete.
  Finish 
-Now Runs prefectly fine !
+Now Runs prefectly!
 
  Total Time: 5 hours
 
