@@ -2,6 +2,8 @@
 Ankita Bhatia 
 0848727
 05/16/2024
+Part 1
+
 13:20
 Add a hello wolrd
 13:28
@@ -10,6 +12,7 @@ add a default action
 output This is welcome default action
 13:30
 Add two parameters 
+Part 2
 name and numtime or integer
 output
 Hello Ankita Bhatia , numtimes is = 8
@@ -88,7 +91,7 @@ Add Validation,
 Added StringLenght, RegularExpression, Range
  Edit coding for the delete.
  Finish 
- Runs prefectly!
+Now Runs prefectly!
 
  Total Time: 5 hours
 
