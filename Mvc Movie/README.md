@@ -47,8 +47,8 @@ Open the Views/HelloWorld/Index.cshtml view file.
 
 15:05
 
-Part 4
-05/23/2024
+Part 5
+2024/05/23
 Added a data model class
 Added NuGet packages
 Created Scaffold movie pages
@@ -60,7 +60,7 @@ now test!
 all good... running perfectly movie part. 
 
 Part 6
-05/30/2024
+2024/05/30
 15:45
 Edit the space 
 Check validation.
@@ -78,3 +78,17 @@ Add Rating
 Also did some Changes In Edit, Index.
 Add Rating in Index, Create, Delete, Index, 
 I got an error. 
+
+Part 9 
+2024/06/06
+I solve previous error then run 
+runs prefectly!
+
+Add Validation, 
+Added StringLenght, RegularExpression, Range
+ Edit coding for the delete.
+ Finish 
+ Runs prefectly!
+
+ Total Time: 5 hours
+
