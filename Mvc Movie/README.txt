@@ -1,0 +1,80 @@
+﻿ISO Format
+Ankita Bhatia 
+0848727
+05/16/2024
+13:20
+Add a hello wolrd
+13:28
+Add a controler 
+add a default action 
+output This is welcome default action
+13:30
+Add two parameters 
+name and numtime or integer
+output
+Hello Ankita Bhatia , numtimes is = 8
+13:10
+Add a view
+shown Index page of hellowolrd
+13:30
+Add a privacy Policy
+Output is show like Movie App
+under this content is given use this page to detail your site's privacy policy
+
+Run a code under home index file
+got output like My movie list
+
+Create a Welcome view template
+got an output like oop nming 4 times
+13:45
+
+All fine!
+
+
+Part 3
+
+Adding a view the the "Hello from our View Template"
+
+14:45
+
+Tested...all good!
+
+Modify the Views/Shared/_Layout.cshtml to display 'Movie App', not Huchovie
+
+15:01
+
+Open the Views/HelloWorld/Index.cshtml view file.
+
+15:05
+
+Part 4
+05/23/2024
+Added a data model class
+Added NuGet packages
+Created Scaffold movie pages
+Started Initial migration
+
+20240523190402 Intial Create 
+15:30
+now test!
+all good... running perfectly movie part. 
+
+Part 6
+05/30/2024
+15:45
+Edit the space 
+Check validation.
+
+Part 7
+1410
+
+modify the movies controller to list the name of the movies
+Add search string 
+also did some chnages that is related to id and index
+1530
+
+Part 8 
+Add Rating
+Also did some Changes In Edit, Index.
+Add Rating in Index, Create, Delete, Index, 
+I got an error. 
